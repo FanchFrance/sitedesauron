@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>findThePrecious.com</title>
+</head>
+  
+<body>
+  <header>FindThePrecious.com Fellows Contact us</header>
+  <a href="https://placeholder.com"><img src="https://via.placeholder.com/740x140.png?text=oremipsum+dolor+sit+amet,+consectetur" alt="oremipsum+dolor+sit+amet,+consectetur"></a>
+  <h2>Sed non risus.</h2>
+  <p><strong>oremipsum+dolor+sit+amet,+consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</strong>(orem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.)<p>
+  <section>
+    <h3>
+      <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140.png?text=oremipsum+dolor+sit+amet,+consectetur" alt="oremipsum+dolor+sit+amet,+consectetur"></a>
+      <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140.png?text=oremipsum+dolor+sit+amet,+consectetur" alt="oremipsum+dolor+sit+amet,+consectetur"></a>
+      <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140.png?text=oremipsum+dolor+sit+amet,+consectetur" alt="oremipsum+dolor+sit+amet,+consectetur"></a>
+    </h3>   
+  </section>
+
+  <section>
+    <h2>Suspendisse lectus tortor, dignissim</h2>
+
+  </section>
+  <footer>
+    <p>Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non </p>
+  </footer>
+   
+</body>
+</html>
